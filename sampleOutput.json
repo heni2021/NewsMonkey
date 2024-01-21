@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Apple's Vision Pro won't have access to YouTube and Spotify apps at launch",
+            "description": "According to Bloomberg, Google's YouTube and Spotify don't have any plans to develop an application for visionOS, the device's platform, at the moment.",
+            "url": "https://www.engadget.com/apples-vision-pro-wont-have-access-to-youtube-and-spotify-apps-at-launch-083434306.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WM8OHVvL.CBfS467JLZgQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/7db5ab90-b69e-11ee-b3e5-342463cd74ef",
+            "publishedAt": "2024-01-19T08:34:34Z",
+            "content": "When the earliest users of Apple's Vision Pro get their headsets in February, they'll find a few of the most popular entertainment apps missing from its system's app store. According to Bloomberg, Go… [+1862 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Raimund Schesswendter",
+            "title": "Deshalb wird die Google-Suche immer schlechter – laut einjähriger Studie",
+            "description": "Die Google-Suche wird immer mehr von minderwertigem SEO-Spam geflutet und entsprechend schlecht in ihren Ergeb",
+            "url": "https://t3n.de/news/google-suche-immer-schlechter-studie-1602577/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/02/Google-Suche.jpg",
+            "publishedAt": "2024-01-19T07:15:00Z",
+            "content": "Oben platzierte Suchergebnisse in Google sind häufig stark für die Suchmaschine optimiert und mit Affiliate-Marketing versehen. Außerdem enthalten sie Anzeichen einer geringen Textqualität. Dieses Er… [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Stephanie Barnes",
+            "title": "Your Google News feed likely features AI-generated articles",
+            "description": "Google is boosting AI-generated articles in its Google News feed. Many articles seem to have been taken directly from other websites.",
+            "url": "https://www.engadget.com/your-google-news-feed-is-likely-filled-with-ai-generated-articles-194654896.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SYI5sdBQZR257AzFfNFU2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/681b7dc0-b638-11ee-97ff-620c002ea6fe",
+            "publishedAt": "2024-01-18T19:46:54Z",
+            "content": "AI-generated content can be found everywhere online, including your Google News feed. A report from 404 Media revealed that Google News can boost websites filled with AI-generated articles ripped fro… [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ron Amadeo",
+            "title": "Google lays off 100 at YouTube; CEO says more layoffs are coming",
+            "description": "Sundar Pichai tells employees to brace for \"tough choices... throughout the year.\"",
+            "url": "https://arstechnica.com/google/2024/01/google-ceo-sundar-pichai-promises-another-year-of-google-layoffs/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/google-760x380.jpg",
+            "publishedAt": "2024-01-18T19:25:35+00:00",
+            "content": "Enlarge/ Google is looking pretty dilapidated these days. \r\n144\r\nToday's Google layoff announcement concerns YouTube, which plans to lay off 100 employees. Tubefilter was the first to report the news… [+2391 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Big Tech's new normal: constant layoffs",
+            "description": "Big Tech companies like Google and Amazon went through several rounds of massive job cuts last year. Now, they're making smaller cuts. This might become the new normal.",
+            "url": "http://www.businessinsider.com/tech-new-normal-constant-layoffs-job-cuts-google-amazon-meta-2024-1",
+            "urlToImage": "https://i.insider.com/65a961a76979d73718245cd0?width=1200&format=jpeg",
+            "publishedAt": "2024-01-18T17:39:33Z",
+            "content": "When Google announces earnings in a couple of weeks, it will announce that it made tens of billions of dollars in profit last year.This week, Google is announcing that it's going through a wave of la… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Peter Kafka",
+            "title": "Big Tech's new normal: constant layoffs",
+            "description": "Big Tech companies like Google and Amazon went through several rounds of massive job cuts last year. Now, they're making smaller cuts. This might become the new normal.",
+            "url": "http://uk.businessinsider.com/tech-new-normal-constant-layoffs-job-cuts-google-amazon-meta-2024-1",
+            "urlToImage": "https://i.insider.com/65a961a76979d73718245cd0?width=1200&format=jpeg",
+            "publishedAt": "2024-01-18T17:39:33Z",
+            "content": "When Google announces earnings in a couple of weeks, it will announce that it made tens of billions of dollars in profit last year.This week, Google is announcing that it's going through a wave of la… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Marina Alcaraz",
+            "title": "Fermer Google Maps pendant les JO ? Un scénario évoqué par Ile-de-France Mobilités",
+            "description": "Le gestionnaire des transports publics lance sa propre application pendant les JO et veut que ses plans de transport soient relayés par les applications comme Google Maps. A défaut, elles pourraient être partiellement fermées pour des raisons de sécurité publ…",
+            "url": "https://www.lesechos.fr/tech-medias/hightech/fermer-google-maps-pendant-les-jo-un-scenario-evoque-par-ile-de-france-mobilites-2047169",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/65a91f4904ec5f2ab71234a8/1280x720/01002261039525-web-tete.jpg",
+            "publishedAt": "2024-01-18T12:53:24Z",
+            "content": "Cachez cette appli que je ne saurais voir Pendant les Jeux Olympiques, Google Maps pourrait devoir s'adapter ou être en partie fermée. Dans une interview à « Ouest France », Laurent Probst, le direct… [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Google Circle to Search and AI-Powered Multi-Search Coming to Mobile",
+            "description": "Two new enhancements coming to Google’s search tools on phones use machine intelligence to make the search experience more efficient.",
+            "url": "https://www.wired.com/story/google-circle-to-search-ai-powered-multi-search",
+            "urlToImage": "https://media.wired.com/photos/65a72bdbbf118ceb4036395f/191:100/w_1280,c_limit/Google-AI-Mobile-Search-Business-1331046491%20copy.jpg",
+            "publishedAt": "2024-01-17T18:00:00Z",
+            "content": "In recent years Google has used the word helpful to describe new features added to its search product, its voice assistant, its generative AI tool Bard, even its Pixel earbuds. A keyword-search for t… [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Karissa Bell",
+            "title": "Amazon challenges Google with smaller, cheaper Echo Show",
+            "description": "Amazon just ratcheted up the pressure on Google.",
+            "url": "https://mashable.com/article/amazon-echo-show-5/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F05%252F29%252F4d%252Fd91b4bcb383142c1b52ffbac16165110.01151.jpg%252F1200x630.jpg?signature=R9UT45RZefZ53JiuK0HJ5OQNCoU=",
+            "publishedAt": "2019-05-29T13:00:00Z",
+            "content": "Amazon just ratcheted up the pressure on Google in a major way.\r\nThe company just unveiled its new Echo Show 5, a smaller and cheaper version of its Echo Show speaker. The $89.99 device is available … [+2026 chars]"
+        }
+    ]
+}
