@@ -26,15 +26,14 @@ export default class App extends Component {
         <Router>
           <NavBar />
           <LoadingBar
-            color='#f11946'
+            color='red'
             progress={this.state.progress}
-            height={4}
+            height={3}
           />
+          {console.log(this.state.progress)}
           <div className='container my-3'>
             {/* Hello my first class based component! - {this.c}  */}
             {/* refer to class variable */}
-            {console.log(this.apiKeyValue)}
-            {console.log("Process: " +process.env)}
             <Routes>
               <Route exact path="/news" element={<News setProgress={this.setProgress}  key="general" pgSize={this.pageSize} apiKey={this.apiKeyValue} country="in" />} />
               {/* <Route exact path="/about" element={<About />} /> */}
